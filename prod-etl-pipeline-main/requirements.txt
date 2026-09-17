@@ -1,0 +1,12 @@
+# For data generation
+faker
+pandas
+pyspark
+
+# For GCP interaction
+google-cloud-storage
+google-cloud-dataproc
+
+# For testing
+pytest
+pylint

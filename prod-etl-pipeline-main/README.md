@@ -6,7 +6,7 @@ Extracting data from different source system to Google Big Query.
 The idea is to create data pipeline and create some dashboards on top of it -
 Retail Analytics Pipeline
 </p>
-Author - Patil Nithin Kumar Reddy
+Author - RaviKumar 
 
 
 # Retail Analytics Pipeline
